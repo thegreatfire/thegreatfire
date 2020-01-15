@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Set List
+title: SET LIST
 description: 'View the songs and genres '
 <!-- image: assets/images/pic11.jpg -->
 nav-menu: true

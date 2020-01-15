@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MUSIC
+title: GALLERY
 description: 'set lists and videos'
 <!-- image: assets/images/pic07.jpg -->
 nav-menu: true
