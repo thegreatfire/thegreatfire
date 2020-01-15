@@ -24,10 +24,10 @@ nav-menu: true
 	<div class="inner">
 		<h4>Set List</h4>
 		<ul class="alt">
-			<li><strong>Somebody Else's Guy</strong><br/>, Jocelyn Brown</li>
-			<li><strong>I Don't Need No Doctor</strong><br/>, John Schofield/John Mayer</li>
-			<li><strong>Back Pocket</strong><br/>, Vulfpeck</li>
-			<li><strong>Superstition</strong><br/>, Stevie Wonder</li>
+			<li><strong>Somebody Else's Guy</strong><br/>Jocelyn Brown</li>
+			<li><strong>I Don't Need No Doctor</strong><br/>John Schofield/John Mayer</li>
+			<li><strong>Back Pocket</strong><br/>Vulfpeck</li>
+			<li><strong>Superstition</strong><br/>Stevie Wonder</li>
 			<li><strong>Roxanne</strong><br/>The Police</li>
 		</ul>
 	</section>
