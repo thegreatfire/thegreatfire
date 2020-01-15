@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: SET LIST
 description: 'View the songs and genres we play'
 <!-- image: assets/images/pic11.jpg -->
@@ -8,41 +8,128 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main">
-
 <!-- One -->
 <section id="setlist" class="spotlights">
 	<div class="inner">
-		<h2>Set List</h2>
-		<ul class="alt">
-			<li><strong>Somebody Else's Guy</strong><br/>Jocelyn Brown</li>
-			<li><strong>I Don't Need No Doctor</strong><br/>John Schofield/John Mayer</li>
-			<li><strong>Back Pocket</strong><br/>Vulfpeck</li>
-			<li><strong>Superstition</strong><br/>Stevie Wonder</li>
-			<li><strong>Roxanne</strong><br/>The Police</li>
-			<li><strong>Higher Ground</strong><br/>Stevie Wonder/RHCP</li>
-			<li><strong>I Believe In A Thing Called Love</strong><br/>The Darkness</li>
-			<li><strong>One Kiss</strong><br/>Calvin Harris/Dua Lipa</li>
-			<li><strong>Don't Start Now</strong><br/>Dua Lipa</li>
-			<li><strong>Uptown Funk</strong><br/>Bruno Mars/Mark Ronson</li>
-			<li><strong>Sing It Back</strong><br/>Moloko</li>
-			<li><strong>Higher Love</strong><br/>Kygo/Whitney Houston</li>
-			<li><strong>Don't Stop Me Now</strong><br/>Queen</li>
-		</ul>
+		<h2>Our Set List</h2>
+		<p>We've carefully curated a list of songs from over five decades of music. These aren't your standard cover band songs; while we love playing cover band classicz, you're equally likely to find us playing something that's currently on the radio. </p>
+		<div class="table-wrapper">
+			<table>
+				<thead>
+					<tr>
+						<th>Song</th>
+						<th>Artist</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Back Pocket</td>
+						<td>Vulfpeck</td>
+					</tr>
+					<tr>
+						<td>Don't Start Now</td>
+						<td>Dua Lipa</td>
+					</tr>
+					<tr>
+						<td>Don't Stop Me Now</td>
+						<td>Queen</td>
+					</tr>
+					<tr>
+						<td>Higher Ground</td>
+						<td>Stevie Wonder/RHCP</td>
+					</tr>
+					<tr>
+						<td>Higher Love</td>
+						<td>Kygo/Whitney Houston</td>
+					</tr>
+					<tr>
+						<td>I Believe In A Thing Called Love</td>
+						<td>The Darkness</td>
+					</tr>
+					<tr>
+						<td>I Don't Need No Doctor</td>
+						<td>John Schofield/John Mayer</td>
+					</tr>
+					<tr>
+						<td>One Kiss</td>
+						<td>Calvin Harris/Dua Lipa</td>
+					</tr>
+					<tr>
+						<td>Roxanne</td>
+						<td>The Police</td>
+					</tr>
+					<tr>
+						<td>Sing It Back</td>
+						<td>Moloko</td>
+					</tr>
+					<tr>
+						<td>Somebody Else's Guy</td>
+						<td>Jocelyn Brown</td>
+					</tr>
+					<tr>
+						<td>Superstition</td>
+						<td>Stevie Wonder</td>
+					</tr>
+					<tr>
+						<td>Uptown Funk</td>
+						<td>Bruno Mars/Mark Ronson</td>
+					</tr>
+				</tbody>
+				<!-- <tfoot>
+					<tr>
+						<td colspan="2"></td>
+						<td>100.00</td>
+					</tr>
+				</tfoot> -->
+			</table>
+		</div>
 	</div>
 </section>
 
-
-<!-- Genres -->
-<!-- <section id="genres">
+<!-- Artists -->
+<section id="artists">
 	<div class="inner">
 		<header class="major">
-			<h2>Genres we love to play</h2>
+			<h2>Most-Requested Bands</h2>
 		</header>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<div class="box">
+			<p>Queen • Eagles • Beatles • Journey • Metallica • Nirvana • The Doors • Abba • Grateful Dead • Rush • Phish • Sublime • Chicago • Bon Jovi • Led Zepplin • Pink Floyd • Rolling Stones • Kiss • AC/DC • CCR • Foreigner</p>
+		</div>
 	</div>
-</section> -->
+</section>
+
+<!-- FAQs -->
+<section id="faqs" class="spotlights">
+	<div class="inner">
+		<h2>Questions people ask cover bands</h2>
+		<dl>
+			<dt>Can a band cover any song?</dt>
+			<dd>
+				<p>We pride ourselves on putting on a high-quality performance, but with enough notice - anything is possible. We have put together a varied and upbeat playlist that's guaranteed to get the party going, but if there's a particular song you'd like us to play then we'll do our best to accommodate it into our set.</p>
+			</dd>
+			<dt>How did you choose your name?</dt>
+			<dd>
+				<p>It's hard to come up with cover band name ideas. Some bands turn to a cover band name generator, but we chose our name as it was the first suggestion that everyone agreed on. The suggestion was based on one of our favourite acoustic duos, The Civil Wars.</p>
+			</dd>
+			<dt>Cover band vs tribute band - what's the difference?</dt>
+			<dd>
+				<p>Where tribute bands focus on one artist, cover bands will put together a playlist of music from various artists. We pride ourselves on finding incredible songs and performing our own versions of them.</p>
+			</dd>
+		</dl>
+	</div>
+</section>
+
+<!-- Genres -->
+<section id="genres">
+	<div class="inner">
+		<header class="major">
+			<h2>Our Favourite Musical Genres</h2>
+		</header>
+		<div class="box">
+			<p>80s Cover Band • 90s Cover Band • Naughties Cover Band</p>
+		</div>
+	</div>
+</section>
 
 
 <!-- Bands -->

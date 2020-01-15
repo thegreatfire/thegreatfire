@@ -10,84 +10,84 @@ nav-menu: true
 <div id="main" class="alt">
 
 <!-- One -->
-<section id="one">
-	<div class="content">
-		<div class="inner">
-			<p>An energetic Sussex-based function band playing an eclectic electric playlist from five decades of rock, pop, funk and blues.</p>
-			<p>we were formed</p>
-		</div>
+<section id="one" class="spotlights">
+	<div class="inner">
+		<p>We're energetic Sussex-based function band playing an eclectic electric playlist from five decades of rock, pop, funk and blues.</p>
 	</div>
 </section>
 
 <!-- About -->	
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
+		<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Stacey</h3>
 					<h4>Vocals/Keys</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<!-- <p>Favourite bands and influences </p> -->
+				<!-- <h4>Influences</h4> -->
+				<!-- <ul class="alt">
+					<li>John Mayer</li>
+					<li>John Frusciante</li>
+					<li>Eric Clapton</li>
+					<li>Nile Rogers</li>
+				</ul> -->
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Stacey</h3>
-					<h4>Vocals/Keys</h4>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
+		<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>John</h3>
 					<h4>Guitar</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A self-taught guitarist blending soulful blues, squealing fuzzy rock and tight-but-loose rythmn guitar.</p>
+				<h4>Top Influences</h4>
+				<ul class="alt">
+					<li>John Mayer</li>
+					<li>John Frusciante</li>
+					<li>Cory Wong</li>
+				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-		</a>
+		<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Rick</h3>
 					<h4>Bass</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<!-- <p>A self-taught guitarist blending soulful blues, squealing fuzzy rock and tight-but-loose rythmn guitar.</p>
+				<h4>Top Influences</h4>
+				<ul class="alt">
+					<li>John Mayer</li>
+					<li>John Frusciante</li>
+					<li>Cory Wong</li>
+				</ul> -->
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
+		<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Alex</h3>
 					<h4>Drums</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<!-- <p>A self-taught guitarist blending soulful blues, squealing fuzzy rock and tight-but-loose rythmn guitar.</p>
+				<h4>Top Influences</h4>
+				<ul class="alt">
+					<li>John Mayer</li>
+					<li>John Frusciante</li>
+					<li>Cory Wong</li>
+				</ul> -->
 			</div>
 		</div>
 	</section>
