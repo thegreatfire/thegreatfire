@@ -10,19 +10,9 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<section id="one" class="spotlights">
 	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>We're proud to have an eclectic paylist of recognisable, modern classics.</p>
-	</div>
-</section>
-
-<!-- Two -->
-<section id="two" class="spotlights">
-	<div class="inner">
-		<h4>Our Set List</h4>
+		<h2>Set List</h2>
 		<ul class="alt">
 			<li><strong>Somebody Else's Guy</strong><br/>Jocelyn Brown</li>
 			<li><strong>I Don't Need No Doctor</strong><br/>John Schofield/John Mayer</li>
@@ -42,8 +32,8 @@ nav-menu: true
 </section>
 
 
-<!-- Three -->
-<section id="three">
+<!-- Two -->
+<section id="two">
 	<div class="inner">
 		<header class="major">
 			<h2>Genres we love</h2>
