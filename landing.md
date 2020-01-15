@@ -10,7 +10,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one" class="spotlights">
+<section id="setlist" class="spotlights">
 	<div class="inner">
 		<h2>Set List</h2>
 		<ul class="alt">
@@ -32,17 +32,34 @@ nav-menu: true
 </section>
 
 
-<!-- Two -->
-<section id="two">
+<!-- Genres -->
+<!-- <section id="genres">
 	<div class="inner">
 		<header class="major">
-			<h2>Genres we love</h2>
+			<h2>Genres we love to play</h2>
 		</header>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
+
+
+<!-- Bands -->
+<!-- <section id="bands">
+	<div class="inner">
+		<header class="major">
+			<h2>Most requested bands</h2>
+		</header>
+		<ul class="actions">
+			<li><a href="generic.html" class="button next">Get Started</a></li>
+		</ul>
+	</div>
+</section> -->
+
+
+
+
 
 <!-- <section id="four" class="spotlights">
 	<section>
