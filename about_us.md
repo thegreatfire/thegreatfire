@@ -15,8 +15,6 @@ nav-menu: true
 			<p>An energetic Sussex-based function band playing an eclectic electric playlist from five decades of rock, pop, funk and blues.</p>
 			<p>we were formed</p>
 		</div>
-	</div>
-</section>
 
 <!-- About -->	
 <section id="two" class="spotlights">
