@@ -2,7 +2,7 @@
 layout: post
 title: ABOUT US
 description: 'Read our story'
-image: assets/images/pic07.jpg
+<!-- image: assets/images/pic07.jpg -->
 nav-menu: true
 ---
 

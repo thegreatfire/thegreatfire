@@ -2,7 +2,7 @@
 layout: page
 title: MUSIC
 description: 'set lists and videos'
-image: assets/images/pic07.jpg
+<!-- image: assets/images/pic07.jpg -->
 nav-menu: true
 ---
 
