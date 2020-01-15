@@ -9,8 +9,14 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 
-<p>An energetic Sussex-based function band playing an eclectic electric playlist from five decades of rock, pop, funk and blues.</p>
-<p>we were formed
+<section id="one">
+	<div class="content">
+		<div class="inner">
+			<p>An energetic Sussex-based function band playing an eclectic electric playlist from five decades of rock, pop, funk and blues.</p>
+			<p>we were formed</p>
+		</div>
+	</div>
+</section>
 
 <!-- About -->	
 <section id="two" class="spotlights">
