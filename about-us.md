@@ -1,7 +1,7 @@
 ---
-layout: landing
+layout: page
 title: SET LIST
-description: 'View the songs and genres '
+description: 'View the songs and genres we play'
 <!-- image: assets/images/pic11.jpg -->
 nav-menu: true
 ---
@@ -28,7 +28,7 @@ nav-menu: true
 			<li><strong>Higher Love</strong><br/>Kygo/Whitney Houston</li>
 			<li><strong>Don't Stop Me Now</strong><br/>Queen</li>
 		</ul>
-	</section>
+	</div>
 </section>
 
 

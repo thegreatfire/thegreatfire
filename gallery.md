@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GALLERY
-description: 'set lists and videos'
+description: 'Videos and photos'
 <!-- image: assets/images/pic07.jpg -->
 nav-menu: true
 ---

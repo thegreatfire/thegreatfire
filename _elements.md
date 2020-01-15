@@ -1,7 +1,7 @@
 ---
-layout: post
-title: ABOUT US
-description: 'Read our story'
+layout: page
+title: GALLERY
+description: 'Videos and photos'
 <!-- image: assets/images/pic07.jpg -->
 nav-menu: true
 ---
