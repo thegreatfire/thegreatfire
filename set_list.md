@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: SET LIST
 description: 'View the songs and genres we play'
 <!-- image: assets/images/pic11.jpg -->
