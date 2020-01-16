@@ -5,7 +5,7 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<!-- <a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a> -->
 	<a href="{{ "" | absolute_url }}" id="header-logo-container">
-		<img id="header-logo" src="assets/images/logo.svg">
+		<img id="header-logo" src="../assets/images/logo.svg">
 	</a>
 	<nav>
 		<a href="#menu">Menu</a>
@@ -27,7 +27,7 @@
 		{% endfor %}
 	</ul>
 	<ul class="actions vertical">
-		<li><a href="generic" class="button special fit">Book the band</a></li>
+		<li><a href="../pages/book" class="button special fit">Book the band</a></li>
 		<!-- <li><a href="#" class="button fit">Log In</a></li> -->
 	</ul>
 </nav>
