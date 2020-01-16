@@ -11,7 +11,7 @@ nav-menu: true
 <!-- One -->
 <section id="setlist" class="spotlights">
 	<div class="inner">
-		<h2>Set List</h2>
+		<h2>Top Songs</h2>
 		<p>We've carefully curated a list of songs from over five decades of music. These aren't your standard cover band songs; while we love playing cover band classics and crowd pleasers, you're equally likely to find us playing something that's currently on the radio. </p>
 		<div class="table-wrapper">
 			<table>
