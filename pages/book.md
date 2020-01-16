@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Us
+title: BOOK US
 description: 'Book the band'
 <!-- image: assets/images/pic07.jpg -->
 tiles: false
