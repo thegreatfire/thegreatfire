@@ -6,11 +6,18 @@
 
 
 /* Header Logo */
+#header-logo-container {
+	text-decoration:none;
+	display: flex;
+	width: 40%;
+	height: 80px; 
+}
+
 #header-logo {
 	line-height: inherit;
 	display:block;
 	margin:auto;
-	max-width:30%;
+	width:100%
 	height: inherit;
 }
 
