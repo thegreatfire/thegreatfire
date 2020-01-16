@@ -6,7 +6,7 @@ description: 'Our story'
 nav-menu: true
 ---
 
-<!-- Main -->
+Main -->
 <div id="main" class="alt">
 
 <!-- Intro -->
@@ -27,12 +27,11 @@ nav-menu: true
 					<h4>Vocals/Keys</h4>
 				</header>
 				<!-- <p>Favourite bands and influences </p> -->
-				<!-- <h4>Influences</h4> -->
-				<!-- <ul class="alt">
+				<!-- <h4>Favourite Artists</h4>
+				<ul class="alt">
 					<li>John Mayer</li>
 					<li>John Frusciante</li>
 					<li>Eric Clapton</li>
-					<li>Nile Rogers</li>
 				</ul> -->
 			</div>
 		</div>
@@ -99,4 +98,4 @@ nav-menu: true
 		<h2>Our Gear</h2>
 		<p>We're energetic Sussex-based function band playing an eclectic electric playlist from five decades of rock, pop, funk and blues.</p>
 	</div>
-</section> -->
+</section>
