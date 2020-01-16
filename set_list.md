@@ -112,7 +112,7 @@ nav-menu: true
 <section id="Duration">
 	<div class="inner">
 		<h2>Set list length</h2>
-		<p>Our set list is just over <stronb>three hours long<strong>, though we usually split this into two or three sets with short interludes between them.</p>
+		<p>Our set list is just over <strong>three hours long</strong>, though we usually split this into two or three sets with short interludes between them.</p>
 		<section id="genres">
 			<header class="major">
 				<h2>Our favourite genres</h2>
@@ -123,6 +123,7 @@ nav-menu: true
 		</section>
 	</div>
 </section>
+
 
 <!-- Genres -->
 	
