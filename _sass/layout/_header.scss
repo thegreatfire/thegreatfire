@@ -8,9 +8,10 @@
 /* Header Logo */
 #header-logo-container {
 	text-decoration:none;
-	display: flex;
-	width: 40%;
-	height: 80px; 
+	display:flex;
+	width:30%;
+	height:80px; 
+	border:0;
 }
 
 #header-logo {
@@ -18,7 +19,6 @@
 	display:block;
 	margin:auto;
 	width:100%
-	height: inherit;
 }
 
 
