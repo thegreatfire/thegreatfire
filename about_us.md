@@ -9,8 +9,8 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
-<section id="one" class="spotlights">
+<!-- Intro -->
+<section id="intro" class="spotlights">
 	<div class="inner">
 		<p>We're energetic Sussex-based function band playing an eclectic electric playlist from five decades of rock, pop, funk and blues.</p>
 	</div>
@@ -92,3 +92,11 @@ nav-menu: true
 		</div>
 	</section>
 </section>
+
+<!-- Gear -->
+<!-- <section id="gear" class="spotlights">
+	<div class="inner">
+		<h2>Our Gear</h2>
+		<p>We're energetic Sussex-based function band playing an eclectic electric playlist from five decades of rock, pop, funk and blues.</p>
+	</div>
+</section> -->
