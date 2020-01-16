@@ -2,6 +2,7 @@
 layout: page
 title: ABOUT US
 description: 'Our story'
+seo_description: 'One of the top cover bands in Sussex playing an eclectic, electric playlist from five decades of rock, pop, funk and blues. Find out more.'
 <!-- image: assets/images/pic07.jpg -->
 nav-menu: true
 ---
@@ -12,7 +13,7 @@ nav-menu: true
 <!-- Intro -->
 <section id="intro" class="spotlights">
 	<div class="inner">
-		<p>We're energetic Sussex-based function band playing an eclectic electric playlist from five decades of rock, pop, funk and blues.</p>
+		<p>We're energetic Sussex-based function band playing an eclectic, electric playlist from five decades of rock, pop, funk and blues.</p>
 	</div>
 </section>
 
