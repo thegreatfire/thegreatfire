@@ -1,9 +1,9 @@
 ---
-layout: post
+<!-- layout: post -->
 title: BOOK US
 description: 'Book the band'
 <!-- image: assets/images/pic07.jpg -->
-tiles: false
+show_tile: false
 nav-menu: false
 ---
 
