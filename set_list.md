@@ -2,6 +2,7 @@
 layout: landing
 title: SET LIST
 description: 'View the songs and genres we play'
+seo_description: 'One of the most up-to-date set lists of any covers band, adding their own unique take to modern hits' 
 <!-- image: assets/images/pic11.jpg -->
 nav-menu: true
 ---
