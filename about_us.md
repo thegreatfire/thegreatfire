@@ -6,7 +6,7 @@ description: 'Our story'
 nav-menu: true
 ---
 
-Main -->
+<!-- Main -->
 <div id="main" class="alt">
 
 <!-- Intro -->
