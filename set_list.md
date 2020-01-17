@@ -2,7 +2,7 @@
 layout: landing
 title: SET LIST
 description: 'View the songs and genres we play'
-seo_description: 'One of the most up-to-date set lists of any covers band, adding their own unique take to modern hits.' 
+seo_description: 'Find out which songs make up one of the most up-to-date set lists of any covers band.' 
 <!-- image: assets/images/pic11.jpg -->
 nav-menu: true
 ---
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="setlist" class="spotlights">
 	<div class="inner">
 		<h2>Top Songs</h2>
-		<p>We've carefully curated a list of songs from over five decades of music. These aren't your standard cover band songs; while we love playing cover band classics and crowd pleasers, you're equally likely to find us playing something that's currently on the radio. </p>
+		<p>We've carefully curated a list of songs from over five decades of music. These aren't your standard cover band songs; while we love playing cover band classics and crowd pleasers, you're equally likely to find us playing something that's currently on the radio.</p>
 		<div class="table-wrapper">
 			<table>
 				<thead>
@@ -113,7 +113,8 @@ nav-menu: true
 <section id="Duration">
 	<div class="inner">
 		<h2>Set list length</h2>
-		<p>Our set list is just over <strong>three hours long</strong>, though we usually split this into two or three sets with short interludes between them.</p>
+		<p>We're capable of providing over <strong>three hours of entertainment</strong>, though we usually split this into two or three sets with short interludes between them.</p>
+		<p>When you book The Great Fire, we bring everything needed to put on a top-quality stage show; a high quality PA system to suit your venue, top quality instruments & equipment and stage lighting. We can be flexible about set-up and soundcheck times - we'll work with you to ensure everything goes as smoothly as possible.</p>
 		<section id="genres">
 			<header class="major">
 				<h2>Our favourite genres</h2>
