@@ -15,6 +15,7 @@ nav-menu: true
 <!-- Intro -->
 <section id="intro" class="spotlights" style="margin-top:2em;">
 	<div class="inner">
+		<h2>The premier feel-good Sussex cover band</h2>
 		<p>We're energetic 4-piece function band playing an eclectic, electric playlist from more than five decades of party music. Our foot-stomping live act is full of infectious, sing-along melodies and highly dance-able tunes that are guaranteed to get you on the dancefloor.</p>
 		<p>The Great Fire are proud to be an independent group of musicians from Eastbourne, travelling the country to perform at parties, weddings and events.</p>
 	</div>
@@ -32,7 +33,7 @@ nav-menu: true
 						<li><a href="https://instagram.com/bakedbystacey" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 					</ul>
 				</header>
-				<p>A front woman who's unique energy and powerful soprano vocals set our set list alight.</p>
+				<p>A front woman whose unique energy and powerful soprano vocals set <a href="set_list">our set list</a> alight.</p>
 				<h4>Favourite Artists</h4>
 				<ul class="alt">
 					<li>Whitney Houston</li>
@@ -53,7 +54,7 @@ nav-menu: true
 						<li><a href="https://twitter.com/johnhayn_es" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 					</ul>
 				</header>
-				<p>An experienced guitarist blending soulful blues, squealing fuzzy rock and syncopated funk rythmns.</p>
+				<p>A creative guitarist that blends soulful blues and squealing fuzzy rock with syncopated funk rythmns.</p>
 				<h4>Influences</h4>
 				<ul class="alt">
 					<li>John Mayer</li>
@@ -80,7 +81,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<!-- <section>
+	<section>
 		<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
@@ -88,25 +89,24 @@ nav-menu: true
 					<h2>Alex</h2>
 					<h4>Drums</h4>
 				</header>
-				<p>A self-taught guitarist blending soulful blues, squealing fuzzy rock and tight-but-loose rythmn guitar.</p>
+				<!-- <p>A self-taught guitarist blending soulful blues, squealing fuzzy rock and tight-but-loose rythmn guitar.</p>
 				<h4>Top Influences</h4>
 				<ul class="alt">
 					<li>John Mayer</li>
 					<li>John Frusciante</li>
 					<li>Cory Wong</li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
-	</section> -->
+	</section>
 </section>
 
 <!-- Gear -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Our Gear</h1>
+			<h2>The Guitars</h2>
 		</header>
-		<h3>Lists</h3>
 		<div class="row">
 			<div class="6u 12u$(medium)">
 				<h3>Guitar Rig</h3>
@@ -116,25 +116,57 @@ nav-menu: true
 					<li>Fender 60s Baja Telecaster</li>
 					<li>Laney LC15</li>
 				</ul>
-				<h4>Accessories</h4>
-				<ul>
-					<li>Caline Hot Mushroom Compressor</li>
-					<li>Boss Overdrive/Distortion Pedal</li>
-					<li>Electroharmonix Soul Food</li>
-					<li>Electroharmonix Nano Big Muff; Fuzz</li>
-					<li>Keeley Caverns II; Reverb and Delay</li>
-					<li>Korg Pitchblack Tuner</li>
-				</ul>
+				<div class="box">
+					<h4>John's pedal board...</h4>
+					<p><a href="https://voxamps.com/product/v847-wah-pedal/" target="_blank">V847 Vox Wah</a> • <a href="https://reverb.com/p/caline-cp-10-hot-mushroom-compressor" target="_blank">Caline Hot Mushroom Compressor</a> • <a href="https://www.ehx.com/products/soul-food" target="_blank">EHX Soul Food</a> • <a href="https://www.boss.info/us/products/os-2/" target="_blank">Overdrive/Distortion Pedal</a> • <a href="https://www.ehx.com/products/nano-big-muff-pi" target="_blank">EHX Nano Big Muff Pi</a> • <a href="https://robertkeeley.com/Caverns" target="_blank">Keeley Caverns II</a> • <a href="https://www.korg.com/us/products/tuners/pitchblack/" target="_blank">Korg Pitchblack Tuner</a></p>
+				</div>
+				<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 			</div>
 			<div class="6u 12u$(medium)">
 				<h3>Bass Rig</h3>
-				<p></p>
 				<h4>Guitar & Amp</h4>
 				<ul>
 					<li>Fender Jazz Bass</li>
+					<li>Musicman Stingray</li>
 					<li>Gallien-Kruger Bass Combo</li>
 				</ul>
+				<div class="box">
+					<h4>Ricks's pedal board...</h4>
+					<p>List TBC</p>
+				</div>
+				<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 			</div>
 		</div>
 	</div>
 </section>
+<!-- <section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Drums and Vocals</h2>
+		</header>
+		<div class="row">
+			<div class="6u 12u$(medium)">
+				<h3>High Quality Vocals</h3>
+				<p>Is this the perfect cover band guitar rig? Possibly.</p>
+				<h4>Mics</h4>
+				<ul>
+					<li>Pearl Vision Series Kit</li>
+					<li>Tama SLP Studio</li>
+					<li>Paiste 2002 Cymbals</li>
+				</ul>
+				<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			</div>
+			<div class="6u 12u$(medium)">
+				<h3>Drums</h3>
+				<p>Is this the perfect cover band guitar rig? Possibly.</p>
+				<h4>The Kit</h4>
+				<ul>
+					<li>Pearl Vision Series Kit</li>
+					<li>Tama SLP Studio</li>
+					<li>Paiste 2002 Cymbals</li>
+				</ul>
+				<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			</div>
+		</div>
+	</div>
+</section> -->
