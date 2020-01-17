@@ -3,7 +3,7 @@ layout: page
 title: GALLERY
 description: 'Videos and photos'
 <!-- image: assets/images/pic07.jpg -->
-show_tile: false
+show_tiles: false
 nav-menu: false
 ---
 
