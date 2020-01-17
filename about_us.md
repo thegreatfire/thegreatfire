@@ -110,7 +110,7 @@ nav-menu: true
 		<div class="row">
 			<div class="6u 12u$(medium)">
 				<h3>Guitar Rig</h3>
-				<p>Is this the perfect cover band guitar rig? Possibly. Is there such thing as </p>
+				<p>Is this the perfect cover band guitar rig? Possibly.</p>
 				<h4>Guitar & Amp</h4>
 				<ul>
 					<li>Fender 60s Baja Telecaster</li>
