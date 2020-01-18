@@ -90,16 +90,15 @@ nav-menu: true
 			<div class="content">
 				<div class="inner">
 					<header class="major">
-						<h2>Alex</h2>
-						<h4>Drums</h4>
+						<h2>Alex Knight, Drums</h2>
 					</header>
-					<!-- <p>A self-taught guitarist blending soulful blues, squealing fuzzy rock and tight-but-loose rythmn guitar.</p>
+					<p>Providing steady grooves, Alex’s rhythms are sure to get your feet moving.</p>
 					<h4>Top Influences</h4>
 					<ul class="alt">
-						<li>John Mayer</li>
-						<li>John Frusciante</li>
-						<li>Cory Wong</li>
-					</ul> -->
+						<li>John Bonham</li>
+						<li>Dave Grohl</li>
+						<li>Kevin Parker</li>
+					</ul>
 				</div>
 			</div>
 		</section>
