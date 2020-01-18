@@ -18,6 +18,7 @@ nav-menu: true
 		<h2>The premier feel-good Sussex cover band</h2>
 		<p>We're energetic 4-piece function band playing an eclectic, electric playlist from more than five decades of party music. Our foot-stomping live act is full of infectious, sing-along melodies and highly dance-able tunes that are guaranteed to get you on the dancefloor.</p>
 		<p>The Great Fire are proud to be an independent group of musicians from Eastbourne, travelling the country to perform at parties, weddings and events.</p>
+	<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
 	</div>
 </section>
 
@@ -146,7 +147,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Drums and Vocals</h2>
+			<h2>Drums</h2>
 		</header>
 		<div class="row">
 			<!-- <div class="6u 12u$(medium)">
@@ -160,7 +161,7 @@ nav-menu: true
 				</ul>
 				<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 			</div> -->
-			<div class="6u 12u$(medium)">
+			<div class="6u 12u$(large)">
 				<h3>Drums</h3>
 				<h4>The Kit</h4>
 				<ul>
