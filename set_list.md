@@ -1,8 +1,8 @@
 ---
 layout: landing
 title: SET LIST
-description: 'View the songs and genres we play'
-seo_description: 'Find out which songs make up one of the most up-to-date set lists of any covers band.' 
+description: The songs and genres we play
+seo_description: Find out which songs make up one of the most up-to-date set lists of any covers band.
 <!-- image: assets/images/pic11.jpg -->
 show_tile: true
 nav-menu: true
