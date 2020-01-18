@@ -143,13 +143,13 @@ nav-menu: true
 		</div>
 	</section>
 </div>
-<!-- <section id="one">
+<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Drums and Vocals</h2>
 		</header>
 		<div class="row">
-			<div class="6u 12u$(medium)">
+			<!-- <div class="6u 12u$(medium)">
 				<h3>High Quality Vocals</h3>
 				<p>Is this the perfect cover band guitar rig? Possibly.</p>
 				<h4>Mics</h4>
@@ -159,18 +159,19 @@ nav-menu: true
 					<li>Paiste 2002 Cymbals</li>
 				</ul>
 				<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-			</div>
+			</div> -->
 			<div class="6u 12u$(medium)">
 				<h3>Drums</h3>
-				<p>Is this the perfect cover band guitar rig? Possibly.</p>
 				<h4>The Kit</h4>
 				<ul>
-					<li>Pearl Vision Series Kit</li>
-					<li>Tama SLP Studio</li>
-					<li>Paiste 2002 Cymbals</li>
+					<li>Pearl Vision Birch Shells</li>
+					<li>Tama SLP Studio Maple Snare</li>
+					<li>Paiste 2oo2 Cymbals</li>
+					<li>Pearl Hardware</li>
+					<li>Evans Drumheads</li>
 				</ul>
 				<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 			</div>
 		</div>
 	</div>
-</section> -->
+</section>
