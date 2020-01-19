@@ -3,7 +3,6 @@ layout: page
 title: ABOUT US
 description: 'Our story'
 seo_description: 'One of the top cover bands in Sussex playing an eclectic, electric playlist from five decades of rock, pop, funk and blues. Find out more about the band.'
-<!-- image: assets/images/pic07.jpg -->
 nav-menu: true
 ---
 
@@ -18,7 +17,7 @@ nav-menu: true
 		<h2>The premier feel-good Sussex cover band</h2>
 		<p>We're energetic 4-piece function band playing an eclectic, electric playlist from more than five decades of party music. Our foot-stomping live act is full of infectious, sing-along melodies and highly dance-able tunes that are guaranteed to get you on the dancefloor.</p>
 		<p>The Great Fire are proud to be an independent group of musicians from Eastbourne, travelling the country to perform at parties, weddings and events.</p>
-	<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
+	<span class="image fit"><img style="width:100%;" src="assets/images/great-fire-band.jpg" alt="" /></span>
 	</div>
 </section>
 
@@ -29,7 +28,7 @@ nav-menu: true
 	</div>
 	<section class="spotlights">
 		<section>
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<div style="background:url('assets/images/stacey-singer.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
@@ -49,7 +48,7 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<div style="background:url('assets/images/john-guitar.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
@@ -70,7 +69,7 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<div style="background:url('assets/images/rick-bass.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
@@ -87,7 +86,7 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<div style="background:url('assets/images/alex-drums.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
