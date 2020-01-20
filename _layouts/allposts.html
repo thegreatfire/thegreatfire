@@ -18,21 +18,21 @@
 
       <!-- One -->
       <section id="one">
-	<div class="inner">
-    {% for post in site.posts %}
-	  {% if post.title != 404 %}
-	  <header class="major">
-	    <h1>{{ post.title }}</h1>
-      {% if post.address %}<p>{{ post.address }}</p>{% endif %}
-	  </header>
-
-	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	  {% if post.description %}<h3>{{ post.description }}</h3>{% endif %}
-    <p>{{ post.content }}</p>
-    {% if post.date %}<p>Posted: {{ post.date }}</p>{% endif %}
-	  {% endif %}
-    {% endfor %}
-	</div>
+      	<div class="inner">
+        <h1>Live Dates</h1>
+          {% for post in site.posts %}
+      	  {% if post.title != 404 %}
+      	  <header class="major">
+      	    <h2>{{ post.title }}</h2>
+            {% if post.live-date %}<p>Date: <strong>{{ post.live-date }}</strong></p>{% endif %}
+            {% if post.address %}<p>Venue: <strong>{{ post.address }}</strong></p>{% endif %}
+      	  </header>
+      	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+      	  {% if post.description %}<h3>{{ post.description }}</h3>{% endif %}
+          <p>{{ post.content }}</p>
+      	  {% endif %}
+          {% endfor %}
+      	</div>
       </section>
 
     </div>
