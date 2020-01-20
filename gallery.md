@@ -5,6 +5,7 @@ description: 'Videos and photos'
 <!-- image: assets/images/pic07.jpg -->
 show_tile: false
 nav-menu: false
+sitemap: false
 ---
 
 <!-- Main -->

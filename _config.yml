@@ -34,3 +34,8 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+# sitemap
+url: "https://thegreatfire.co.uk" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
