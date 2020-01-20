@@ -1,5 +1,5 @@
 ---
-<!-- layout: post -->
+layout: post
 title: March 21 - Summer Warm-Up
 <!-- description: April 14 -->
 address: Printers Playhouse, 44 Grove Road, Eastbourne
