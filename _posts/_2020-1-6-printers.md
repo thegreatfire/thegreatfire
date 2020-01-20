@@ -1,5 +1,5 @@
 ---
-layout: post
+<!-- layout: post -->
 title: April 14 Printers Playhouse
 <!-- description: April 14 -->
 address: 44 Grove Road, Eastbourne
