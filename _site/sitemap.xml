@@ -4,10 +4,10 @@
 <loc>http://localhost:4000/about_us.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/all_posts.html</loc>
+<loc>http://localhost:4000/book.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/book.html</loc>
+<loc>http://localhost:4000/gigs.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
