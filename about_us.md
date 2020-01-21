@@ -28,7 +28,7 @@ nav-menu: true
 	</div>
 	<section class="spotlights">
 		<section>
-			<div style="background:url('assets/images/stacey-singer.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
+			<div style="background:url('../assets/images/stacey-singer.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
@@ -48,7 +48,7 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<div style="background:url('assets/images/john-guitar.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
+			<div style="background:url('../assets/images/john-guitar.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
@@ -69,7 +69,7 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<div style="background:url('assets/images/rick-bass.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
+			<div style="background:url('../assets/images/rick-bass.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
@@ -86,7 +86,7 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<div style="background:url('assets/images/alex-drums.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
+			<div style="background:url('../assets/images/alex-drums.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
