@@ -41,12 +41,16 @@ nav-menu: true
 						<td>Queen</td>
 					</tr>
 					<tr>
+						<td>Get Lucky</td>
+						<td>Pharrell Williams/Daft Punk</td>
+					</tr>
+					<tr>
 						<td>Higher Ground</td>
 						<td>Stevie Wonder/RHCP</td>
 					</tr>
 					<tr>
 						<td>Higher Love</td>
-						<td>Kygo/Whitney Houston</td>
+						<td>Steve Winwood/Kygo/Whitney Houston</td>
 					</tr>
 					<tr>
 						<td>I Believe In A Thing Called Love</td>
@@ -55,6 +59,14 @@ nav-menu: true
 					<tr>
 						<td>I Don't Need No Doctor</td>
 						<td>John Schofield/John Mayer</td>
+					</tr>
+					<tr>
+						<td>Le Freak</td>
+						<td>Chic</td>
+					</tr>
+					<tr>
+						<td>One of These Nights</td>
+						<td>The Eagles</td>
 					</tr>
 					<tr>
 						<td>One Kiss</td>
@@ -73,6 +85,10 @@ nav-menu: true
 						<td>Neikid</td>
 					</tr>
 					<tr>
+						<td>Shake It Off</td>
+						<td>Taylor Swift</td>
+					</tr>
+					<tr>
 						<td>Sing It Back</td>
 						<td>Moloko</td>
 					</tr>
@@ -83,10 +99,6 @@ nav-menu: true
 					<tr>
 						<td>Superstition</td>
 						<td>Stevie Wonder</td>
-					</tr>
-					<tr>
-						<td>Teardrop</td>
-						<td>Massive Attack</td>
 					</tr>
 					<tr>
 						<td>Uptown Funk</td>
