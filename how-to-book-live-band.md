@@ -111,6 +111,9 @@ nav-menu: false
 				<div class="inner">
 					<header class="major">
 						<h2>The Diamond Experience</h2>
+						<ul class="icons">
+							<li><a href="https://www.diamondexperiencemusic.co.uk" class="icon fa-link"><span class="label">Facebook</span></a></li>
+						</ul>
 					</header>
 					<p>Fronted by Joel White (above), The Diamond Experience provide bespoke musical solutions for all events, weddings and private hires. Perhaps the most versatile collective of musicians we've ever worked with.</p>
 				</div>
