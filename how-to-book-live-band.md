@@ -64,7 +64,7 @@ nav-menu: false
 	</div>
 	<section class="spotlights">
 		<section>
-			<div style="background:url('https://lh5.googleusercontent.com/tvds_H9ONAY6YMliub2iQVs3CWnYdKeZRT6-2ALAZw-qJEgSqz9WuQmkZZZjQibHTx8ujPxzUQ8qIaeznouxAgXnfGw9TR-JLoYzNyzSfdqIyhsuMrmS=w1175'); background-size:cover; width:100%; min-height: 400px;"></div>
+			<div style="background:url('https://i.ytimg.com/vi/Cy3cPfZFIbI/maxresdefault.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
