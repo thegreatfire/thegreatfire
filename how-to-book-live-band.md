@@ -71,6 +71,7 @@ nav-menu: false
 						<h2>Joel White</h2>
 						<ul class="icons">
 							<li><a href="https://instagram.com/joelwhitemusic" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.joelwhitemusic.co.uk" class="icon fa-link"><span class="label">Website</span></a></li>
 						</ul>
 					</header>
 					<p>Joel White is dynamic, musical and entertaining in equal measure. Soul, Blues, Jazz and Funk are the languages he most fluently speaks. He has the most incredible voice and makes even the most complex of musical arrangements look completely effortless.</p>
