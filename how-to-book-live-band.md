@@ -48,7 +48,7 @@ nav-menu: false
 		</ul>
 		<div class="box">
 			<h3>The Great Fire</h3>
-			<p>We've made a list of great local bands that we highly recommend below, but we'd love to be consider for your gig.</p>
+			<p>We've made a list of great local bands that we highly recommend below, but we'd love to be considered for your gig.</p>
 			<ul class="actions vertical">
 				<li><a href="../book" class="button special icon fa-music">Book The Band</a></li>
 			</ul>
