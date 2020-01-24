@@ -46,14 +46,14 @@ nav-menu: false
 			<li>Details of the event; what type of event is it and what mood are you going for?</li>
 			<li>What are the logistical requirements; power sockets, space in which to set up, where to park the van etc</li>
 		</ul>
-	</div>
-	<div class="box">
+		<div class="box">
 			<h3>The Great Fire</h3>
 			<p>We've made a list of great local bands that we highly recommend below, but we'd love to be consider for your gig.</p>
 			<ul class="actions vertical">
 				<li><a href="../book" class="button special icon fa-music">Book The Band</a></li>
 			</ul>
 		</div>
+	</div>
 </section>
 
 <!-- About -->	
