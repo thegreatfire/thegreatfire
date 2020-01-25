@@ -58,7 +58,7 @@ nav-menu: true
 							<li><a href="https://twitter.com/johnhayn_es" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 						</ul>
 					</header>
-					<p>A creative guitarist that blends soulful blues and squealing fuzzy rock with syncopated funk rythmns.</p>
+					<p>A creative guitarist that blends soulful blues and squealing fuzzy rock with syncopated funk rhythmns.</p>
 					<h4>Influences</h4>
 					<ul class="alt">
 						<li>John Mayer</li>
