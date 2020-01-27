@@ -21,7 +21,7 @@ nav-menu: false
 		<p>As the nights draw in, you'll find us playing in pubs and bars across sussex - preferably those with an open log fire.</p>
 		<div class="box">
 			<h3>The Great Fire</h3>
-			<p>We''d love to find out more about your upcoming event and are currently booking for Summer and Autumn 2020'</p>
+			<p>We''d love to find out more about your upcoming event and are currently booking for Summer and Autumn 2020.</p>
 			<ul class="actions vertical">
 				<li><a href="../book" class="button next scrolly">Book The Band</a></li>
 			</ul>
