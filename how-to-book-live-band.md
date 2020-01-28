@@ -50,9 +50,7 @@ nav-menu: false
 		<div class="box">
 			<h3>The Great Fire</h3>
 			<p>We've made a list of great local bands that we highly recommend below, but we'd love to be considered for your gig.</p>
-			<ul>
-				<li><a href="../book" class="button next scrolly">Book The Band</a></li>
-			</ul>
+			<span><a href="../book" class="button next scrolly">Book The Band</a></span>
 		</div>
 	</div>
 </section>
