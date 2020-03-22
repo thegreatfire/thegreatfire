@@ -121,7 +121,7 @@ nav-menu: true
 					</ul>
 					<div class="box">
 						<h4>John's pedal board...</h4>
-						<p><a href="https://voxamps.com/product/v847-wah-pedal/" target="_blank">V847 Vox Wah</a> • <a href="https://reverb.com/p/caline-cp-10-hot-mushroom-compressor" target="_blank">Caline Hot Mushroom Compressor</a> • <a href="https://www.ehx.com/products/soul-food" target="_blank">EHX Soul Food</a> • <a href="https://www.boss.info/us/products/os-2/" target="_blank">Overdrive/Distortion Pedal</a> • <a href="https://www.ehx.com/products/nano-big-muff-pi" target="_blank">EHX Nano Big Muff Pi</a> • <a href="https://robertkeeley.com/Caverns" target="_blank">Keeley Caverns II</a> • <a href="https://www.korg.com/us/products/tuners/pitchblack/" target="_blank">Korg Pitchblack Tuner</a></p>
+						<p><a href="https://voxamps.com/product/v847-wah-pedal/" target="_blank">V847 Vox Wah</a> • <a href="https://reverb.com/p/caline-cp-10-hot-mushroom-compressor" target="_blank">Caline Hot Mushroom Compressor</a> • <a href="https://robertkeeley.com/Super+Phat+Mod" target="_blank">Keeley Super Phat Mod</a> • <a href="https://www.ibanez.com/usa/products/detail/ts9_99.html" target="_blank">Ibanez TS9</a> • <a href="https://www.ehx.com/products/nano-big-muff-pi" target="_blank">EHX Nano Big Muff Pi</a> • <a href="https://robertkeeley.com/Caverns" target="_blank">Keeley Caverns II</a> • <a href="https://www.korg.com/us/products/tuners/pitchblack/" target="_blank">Korg Pitchblack Tuner</a></p>
 					</div>
 					<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 				</div>
