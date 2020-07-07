@@ -23,9 +23,6 @@ nav-menu: true
 
 <!-- About -->	
 <section id="band">
-	<div class="inner">
-		<h2>The Band</h2>
-	</div>
 	<section class="spotlights">
 		<section>
 			<div style="background:url('../assets/images/stacey-singer.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
