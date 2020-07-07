@@ -22,7 +22,9 @@
           <div class="box">
             <h1>Upcoming Gigs</h1>
             {% for post in site.posts %}
-        	  {% if post.title != 404 and post.date >= now %}
+            {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+            {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
+        	  {% if date >= now and post.title != 404 %}
         	  <header class="major">
         	    <h2>{{ post.title }}</h2>
               {% if post.live-date %}<p>Date: <strong>{{ post.live-date }}</strong></p>{% endif %}
@@ -43,7 +45,9 @@
           <div class="box">
             <h1>Previous Gigs</h1>
             {% for post in site.posts %}
-            {% if post.title != 404 and post.date < now %}
+            {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+            {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
+            {% if date < now and post.title != 404 %}
             <header class="major">
               <h2>{{ post.title }}</h2>
               {% if post.live-date %}<p>Date: <strong>{{ post.live-date }}</strong></p>{% endif %}
