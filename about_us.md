@@ -17,7 +17,7 @@ nav-menu: true
 		<h2>The premier feel-good Sussex cover band</h2>
 		<p>We're energetic 4-piece function band playing an eclectic, electric playlist from more than five decades of party music. Our foot-stomping live act is full of infectious, sing-along melodies and highly dance-able tunes that are guaranteed to get you on the dancefloor.</p>
 		<p>The Great Fire are proud to be an independent group of musicians from Eastbourne, travelling the country to perform at parties, weddings and events.</p>
-	<span class="image fit"><img style="width:100%;" src="../assets/images/great-fire-band.jpg" alt="" /></span>
+		<!-- <span class="image fit"><img style="width:100%;" src="../assets/images/great-fire-band.jpg" alt="" /></span> -->
 	</div>
 </section>
 
