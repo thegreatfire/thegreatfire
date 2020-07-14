@@ -13,7 +13,7 @@
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-	<meta property="og:image" content="{% if post.image %}{{ site.baseurl }}/{{ post.image }}{% else %}../assets/images/the-great-fire-band--og-image.png{% endif %}" />	
+	<meta property="og:image" content="{% if post.image %}{{ site.baseurl }}/{{ post.image }}{% else %}{{ '/assets/images/the-great-fire-band--og-image.png' | absolute_url}}{% endif %}" />	
 	<meta property="og:site_name" content="{{ site.title }}">
 	<meta property="article:publisher" content="http://www.facebook.com/greatfireband" />
 	<meta property="article:author" content="https://www.facebook.com/greatfireband" />
