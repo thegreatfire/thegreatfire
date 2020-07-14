@@ -25,6 +25,10 @@ nav-menu: true
 				</thead>
 				<tbody>
 					<tr>
+						<td>1612</td>
+						<td>Vulfpeck</td>
+					</tr>
+					<tr>
 						<td>Back Pocket</td>
 						<td>Vulfpeck</td>
 					</tr>
@@ -45,6 +49,10 @@ nav-menu: true
 						<td>Pharrell Williams/Daft Punk</td>
 					</tr>
 					<tr>
+						<td>Girls Just Wanna Have Fun</td>
+						<td>Cyndi Lauper</td>
+					</tr>
+					<tr>
 						<td>Higher Ground</td>
 						<td>Stevie Wonder/RHCP</td>
 					</tr>
@@ -61,8 +69,20 @@ nav-menu: true
 						<td>John Schofield/John Mayer</td>
 					</tr>
 					<tr>
+						<td>I Want You Back</td>
+						<td>Jackson Five</td>
+					</tr>
+					<tr>
+						<td>Juice</td>
+						<td>Lizzo</td>
+					</tr>
+					<tr>
 						<td>Le Freak</td>
 						<td>Chic</td>
+					</tr>
+					<tr>
+						<td>Metrotech</td>
+						<td>Public Access TV</td>
 					</tr>
 					<tr>
 						<td>One of These Nights</td>
@@ -75,6 +95,10 @@ nav-menu: true
 					<tr>
 						<td>Rather Be</td>
 						<td>Clean Bandit, Jess Glynne</td>
+					</tr>
+					<tr>
+						<td>Reptillia</td>
+						<td>The Strokes</td>
 					</tr>
 					<tr>
 						<td>Roxanne</td>
@@ -97,12 +121,24 @@ nav-menu: true
 						<td>Jocelyn Brown</td>
 					</tr>
 					<tr>
+						<td>Supermassive Black Hole</td>
+						<td>Muse</td>
+					</tr>
+					<tr>
 						<td>Superstition</td>
 						<td>Stevie Wonder</td>
 					</tr>
 					<tr>
 						<td>Uptown Funk</td>
 						<td>Bruno Mars/Mark Ronson</td>
+					</tr>
+					<tr>
+						<td>Walk Like An Egyptian</td>
+						<td>The Bangles</td>
+					</tr>
+					<tr>
+						<td>Walking On Sunshine</td>
+						<td>Katrina & The Waves</td>
 					</tr>
 				</tbody>
 				<!-- <tfoot>
