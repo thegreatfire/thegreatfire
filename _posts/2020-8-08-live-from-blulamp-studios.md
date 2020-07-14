@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Live from Stables Studios
+title: Live from Blulamp Studios
 live-date: 08 August 2020
-address: Stables Studios, Stables lane, Eastbourne, East Sussex
+address: Blulamp Studios, Stables lane, Eastbourne, East Sussex
 image: assets/images/band-joiner.jpg
 ---
 
