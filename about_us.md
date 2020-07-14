@@ -25,7 +25,7 @@ nav-menu: true
 <section id="band">
 	<section class="spotlights">
 		<section>
-			<div style="background:url('../assets/images/stacey-singer.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
+			<div style="background:url('../assets/images/stacey-singer.jpg'); background-size:cover; background-position: center; width:100%; min-height: 400px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
