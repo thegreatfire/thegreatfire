@@ -3,7 +3,10 @@ layout: post
 title: Live from Stables Studios
 live-date: 08 August 2020
 address: Stables Studios, Stables lane, Eastbourne, East Sussex
+image: assets/images/band-joiner.jpg
 ---
+
+
 
 Lights, 4 cameras, live studio audience - this is a live stream not to be missed!
 
