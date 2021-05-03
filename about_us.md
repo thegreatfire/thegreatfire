@@ -113,6 +113,8 @@ nav-menu: true
 					<p>Is this the perfect cover band guitar rig? Possibly.</p>
 					<h4>Guitar & Amp</h4>
 					<ul>
+						<li>Moar Wayfair</li>
+						<li>Laney VC30</li>
 						<li>Fender 60s Baja Telecaster</li>
 						<li>Laney LC15</li>
 					</ul>

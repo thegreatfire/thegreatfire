@@ -42,10 +42,6 @@ nav-menu: true
 						<td>Dua Lipa</td>
 					</tr>
 					<tr>
-						<td>Don't Stop Me Now</td>
-						<td>Queen</td>
-					</tr>
-					<tr>
 						<td>Get Lucky</td>
 						<td>Pharrell Williams/Daft Punk</td>
 					</tr>
