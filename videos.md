@@ -6,13 +6,15 @@ nav-menu: true
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
 <!-- About -->	
 <section>
-	<div class="inner" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-	    <iframe style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/dP0SEAnesgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div class="inner row">
+		<div class="12u 12u(small)" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+		    <iframe style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/UjxgoWw56oQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
 	</div>
 	<div class="inner">
 		<header class="major">
