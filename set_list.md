@@ -70,6 +70,10 @@ nav-menu: true
 						<td>Jackson Five</td>
 					</tr>
 					<tr>
+						<td>I Wish</td>
+						<td>Stevie Wonder</td>
+					</tr>
+					<tr>
 						<td>Juice</td>
 						<td>Lizzo</td>
 					</tr>
