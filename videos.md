@@ -3,7 +3,7 @@ layout: landing
 title: Videos
 landing-title: 'Live Dates'
 nav-menu: true
-description: null
+description: 'Watch songs from previous performances'
 image: null
 author: null
 show_tile: true

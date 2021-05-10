@@ -114,13 +114,17 @@ nav-menu: true
 					<h4>Guitar & Amp</h4>
 					<ul>
 						<li>Moar Wayfair</li>
-						<li>Laney VC30</li>
 						<li>Fender 60s Baja Telecaster</li>
+						<li>Laney VC30</li>
 						<li>Laney LC15</li>
 					</ul>
 					<div class="box">
 						<h4>John's pedal board...</h4>
-						<p><a href="https://www.korg.com/us/products/tuners/pitchblack/" target="_blank">Korg Pitchblack Tuner</a> • <a href="https://voxamps.com/product/v847-wah-pedal/" target="_blank">V847 Vox Wah</a> • <a href="https://www.ehx.com/products/nano-big-muff-pi" target="_blank">EHX Nano Big Muff Pi</a> • <a href="https://reverb.com/p/caline-cp-10-hot-mushroom-compressor" target="_blank">Caline Hot Mushroom Compressor</a> • <a href="https://hayneseffects.com" target="_blank">Haynes Effects Positional Boost</a> • <a href="https://robertkeeley.com/Super+Phat+Mod" target="_blank">Keeley Super Phat Mod</a> • <a href="https://www.ibanez.com/usa/products/detail/ts9_99.html" target="_blank">Ibanez TS9</a> • <a href="https://robertkeeley.com/Caverns" target="_blank">Keeley Caverns II</a> • <a href="https://hayneseffects.com" target="_blank">Haynes Effects Cthulu</a> • <a href="https://www.behringer.com/behringer/product?modelCode=P0508" target="_blank">Behringer VD400</a></p>
+						<h5>Gain Stage</h5>
+						<p><a href="https://www.korg.com/us/products/tuners/pitchblack/" target="_blank">Korg Pitchblack Tuner</a> • <a href="https://voxamps.com/product/v847-wah-pedal/" target="_blank">V847 Vox Wah</a> • <a href="https://www.boss.info/us/products/oc-5/" target="_blank">Boss OC-3 Octaver</a> • <a href="http://www.calinemusic.com/products/effectpedal/78.html" target="_blank">Caline Pure Sky</a> • <a href="https://www.ibanez.com/eu/products/detail/ts9_99.html" target="_blank">Ibanez TS-9 Tubescreamer</a> • <a href="https://robertkeeley.com/Super+Phat+Mod" target="_blank">Keeley Super Phat Mod</a>
+						</p>
+						<h5>Efects Loop</h5>
+						<p><a href="https://hayneseffects.com" target="_blank">Haynes Effects Positional Boost</a> • <a href="https://www.ehx.com/products/micro-q-tron/" target="_blank">EHX Qtron Micro</a> • <a href="https://www.joyoaudio.co.uk/chorus/JOYO-JF-05-classic-chorus-guitar-effect-pedal" target="_blank">Joyo Classic Chorus</a> • <a href="http://wayhuge.com/" target="_blank">Wayhuge Aquapuss MkII</a> • <a href="https://robertkeeley.com/Caverns" target="_blank">Keeley Caverns II</a></p>
 					</div>
 					<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 				</div>
@@ -134,7 +138,7 @@ nav-menu: true
 					</ul>
 					<div class="box">
 						<h4>Ricks's pedal board...</h4>
-						<p>List TBC</p>
+						<p><a href="https://www.boss.info/us/products/ge-7/" target="_blank">Boss GE-7</a> • <a href="https://www.boss.info/us/products/odb-3/" target="_blank">Boss ODB-3</a> • <a href="https://www.aguilaramp.com/effect-pedals/filter-twin/" target="_blank">Aguilar Filter Twin</a> • <a href="https://www.boss.info/us/products/bf-3/" target="_blank">Boss BF-3</a> • <a href="https://www.ehx.com/products/micro-pog/" target="_blank">EHX Micro POG</a></p>
 					</div>
 					<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 				</div>
