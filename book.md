@@ -1,9 +1,9 @@
 ---
 <!-- layout: post -->
 title: BOOK US
-description: 'Book the band'
+description: 'Book now for 2021'
 <!-- image: assets/images/pic07.jpg -->
-show_tile: false
+show_tile: true
 nav-menu: false
 ---
 
