@@ -2,6 +2,7 @@
 layout: landing
 title: SET LIST
 description: The songs and genres we play
+image: assets/images/guitar-rig.JPG
 seo_description: Find out which songs make up one of the most up-to-date set lists of any covers band.
 <!-- image: assets/images/pic11.jpg -->
 show_tile: true

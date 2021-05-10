@@ -4,7 +4,7 @@ title: Videos
 landing-title: 'Live Dates'
 nav-menu: true
 description: 'Watch songs from previous performances'
-image: null
+image: assets/images/videos.jpeg
 author: null
 show_tile: true
 ---
