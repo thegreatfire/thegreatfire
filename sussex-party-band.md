@@ -40,7 +40,7 @@ nav-menu: false
 					<p>We've carefully curated a list of songs from over five decades of music. These aren't your standard cover band songs; while we love playing cover band classics and crowd pleasers, you're equally likely to find us playing something that's currently on the radio.</p>
 					<ul class="actions">
 	                    <li><a href="{{ book  | absolute_url }}" class="button special">Book Now</a></li>
-	                    <li><a href="{{ 'about' | absolute_url }}" class="button ">About the band</a></li>
+	                    <li><a href="{{ 'about_us' | absolute_url }}" class="button ">About the band</a></li>
 	                </ul>
 				</div>
 			</div>
