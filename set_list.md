@@ -26,122 +26,31 @@ nav-menu: true
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
-						<td>1612</td>
-						<td>Vulfpeck</td>
-					</tr>
-					<tr>
-						<td>Back Pocket</td>
-						<td>Vulfpeck</td>
-					</tr>
-					<tr>
-						<td>Cry For You</td>
-						<td>Sofi Tukker</td>
-					</tr>
-					<tr>
-						<td>Don't Start Now</td>
-						<td>Dua Lipa</td>
-					</tr>
-					<tr>
-						<td>Get Lucky</td>
-						<td>Pharrell Williams/Daft Punk</td>
-					</tr>
-					<tr>
-						<td>Girls Just Wanna Have Fun</td>
-						<td>Cyndi Lauper</td>
-					</tr>
-					<tr>
-						<td>Higher Ground</td>
-						<td>Stevie Wonder/RHCP</td>
-					</tr>
-					<tr>
-						<td>Higher Love</td>
-						<td>Steve Winwood/Kygo/Whitney Houston</td>
-					</tr>
-					<tr>
-						<td>I Believe In A Thing Called Love</td>
-						<td>The Darkness</td>
-					</tr>
-					<tr>
-						<td>I Don't Need No Doctor</td>
-						<td>John Schofield/John Mayer</td>
-					</tr>
-					<tr>
-						<td>I Want You Back</td>
-						<td>Jackson Five</td>
-					</tr>
-					<tr>
-						<td>I Wish</td>
-						<td>Stevie Wonder</td>
-					</tr>
-					<tr>
-						<td>Juice</td>
-						<td>Lizzo</td>
-					</tr>
-					<tr>
-						<td>Le Freak</td>
-						<td>Chic</td>
-					</tr>
-					<tr>
-						<td>Metrotech</td>
-						<td>Public Access TV</td>
-					</tr>
-					<tr>
-						<td>One of These Nights</td>
-						<td>The Eagles</td>
-					</tr>
-					<tr>
-						<td>One Kiss</td>
-						<td>Calvin Harris/Dua Lipa</td>
-					</tr>
-					<tr>
-						<td>Rather Be</td>
-						<td>Clean Bandit, Jess Glynne</td>
-					</tr>
-					<tr>
-						<td>Reptillia</td>
-						<td>The Strokes</td>
-					</tr>
-					<tr>
-						<td>Roxanne</td>
-						<td>The Police</td>
-					</tr>
-					<tr>
-						<td>Sexual</td>
-						<td>Neikid</td>
-					</tr>
-					<tr>
-						<td>Shake It Off</td>
-						<td>Taylor Swift</td>
-					</tr>
-					<tr>
-						<td>Sing It Back</td>
-						<td>Moloko</td>
-					</tr>
-					<tr>
-						<td>Somebody Else's Guy</td>
-						<td>Jocelyn Brown</td>
-					</tr>
-					<tr>
-						<td>Supermassive Black Hole</td>
-						<td>Muse</td>
-					</tr>
-					<tr>
-						<td>Superstition</td>
-						<td>Stevie Wonder</td>
-					</tr>
-					<tr>
-						<td>Uptown Funk</td>
-						<td>Bruno Mars/Mark Ronson</td>
-					</tr>
-					<tr>
-						<td>Walk Like An Egyptian</td>
-						<td>The Bangles</td>
-					</tr>
-					<tr>
-						<td>Walking On Sunshine</td>
-						<td>Katrina & The Waves</td>
-					</tr>
+					<tr>	<td>	Cry For You / Wicked Game	</td>	<td>	Sofi Tukker / Chris Isaac	</td>	</tr>
+					<tr>	<td>	I Wish	</td>	<td>	Stevie Wonder	</td>	</tr>
+					<tr>	<td>	Roxanne	</td>	<td>	The Police	</td>	</tr>
+					<tr>	<td>	Back Pocket	</td>	<td>	Vulfpeck	</td>	</tr>
+					<tr>	<td>	One of These Nights	</td>	<td>	The Eagles	</td>	</tr>
+					<tr>	<td>	One Kiss	</td>	<td>	Calvin Harris / Dua Lipa	</td>	</tr>
+					<tr>	<td>	Redbone	</td>	<td>	Childish Gambino	</td>	</tr>
+					<tr>	<td>	Higher Love	</td>	<td>	Whitney Houston / Kygo / Steve Winwood 	</td>	</tr>
+					<tr>	<td>	Superstition	</td>	<td>	Stevie Wonder	</td>	</tr>
+					<tr>	<td>	I Don’t Need No Doctor	</td>	<td>	John Schofield / John Mayer	</td>	</tr>
+					<tr>	<td>	Reptilia	</td>	<td>	The Strokes	</td>	</tr>
+					<tr>	<td>	Easy Lover	</td>	<td>	Phil Collins / Philip Bailey	</td>	</tr>
+					<tr>	<td>	Sing It Back	</td>	<td>	Moloko (Boris Remix)	</td>	</tr>
+					<tr>	<td>	Never Too Much	</td>	<td>	Luther Vandross	</td>	</tr>
+					<tr>	<td>	Rather Be	</td>	<td>	Clean Bandit	</td>	</tr>
+					<tr>	<td>	Walk Like An Egyptian	</td>	<td>	The Bangles	</td>	</tr>
+					<tr>	<td>	Metrotech	</td>	<td>	Public Access TV	</td>	</tr>
+					<tr>	<td>	Somebody Else’s Guy	</td>	<td>	Jocelyn Brown	</td>	</tr>
+					<tr>	<td>	Shake it off	</td>	<td>	Taylor Swift	</td>	</tr>
+					<tr>	<td>	Le Freak	</td>	<td>	Chic	</td>	</tr>
+					<tr>	<td>	Get Lucky	</td>	<td>	Pharrel / Daft Punk	</td>	</tr>
+					<tr>	<td>	Juice	</td>	<td>	Lizzo	</td>	</tr>
+					<tr>	<td>	Uptown Funk	</td>	<td>	Bruno Mars	</td>	</tr>
+					<tr>	<td>	Valerie	</td>	<td>	The Zutons	</td>	</tr>
+					<tr>	<td>	I Believe In A Thing Called Love	</td>	<td>	The Darkness	</td>	</tr>
 				</tbody>
 				<!-- <tfoot>
 					<tr>
