@@ -2,7 +2,7 @@
 layout: post
 title: The White Horse Inn
 date: 03-07-2021
-live-date: 7pm-9:30pm, 03 July 2021
+live-date: 7:30pm, 03 July 2021
 address: The White Horse Inn, Bodle Street Green, Hailsham BN27 4RE
 ---
 
