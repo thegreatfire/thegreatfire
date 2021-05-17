@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hastings: Stade Saturdays
+title: Stade Saturdays
 date: 26-09-2020
 live-date: 8pm, 26 September 2020
 address: The Stade

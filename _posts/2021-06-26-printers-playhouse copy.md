@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Printers Playhouse + Support
-date: 06-26-2021
+date: 26-06-2021
 live-date: 8pm, 26 June 2021
 address: Printer's Playhouse, 44 Grove Road, Eastbourne
 ---
