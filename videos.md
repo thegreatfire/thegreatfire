@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Videos
+title: VIDEOS
 landing-title: 'Live Dates'
 nav-menu: true
 description: 'Watch songs from previous performances'
