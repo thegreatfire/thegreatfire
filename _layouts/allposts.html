@@ -25,7 +25,8 @@
             {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
             {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
         	  {% if date >= now and post.title != 404 %}
-        	  {% if post.url %}<a href="{{ post.url }}"><header class="major">{% endif %}
+            {% if post.url %}<a href="{{ post.url }}">{% endif %}
+            <header class="major">
         	    <h2>{{ post.title }}</h2>
               {% if post.live-date %}<p>Date: <strong>{{ post.live-date }}</strong></p>{% endif %}
               {% if post.address %}<p>Venue: <strong>{{ post.address }}</strong></p>{% endif %}
