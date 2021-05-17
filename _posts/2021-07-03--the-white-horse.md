@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hastings: The White Horse Inn
-live-date: 26 September 2020
+live-date: 8pm, 3 July 2021
 address: The White Horse Inn, Bodle Street Green, Hailsham BN27 4RE
 ---
 
