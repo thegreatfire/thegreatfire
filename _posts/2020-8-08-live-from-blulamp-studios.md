@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Live from Blulamp Studios
+date: 08-08-2020
 live-date: 8pm, 8 August 2020
 address: Blulamp Studios, Stables lane, Eastbourne, East Sussex
 ---

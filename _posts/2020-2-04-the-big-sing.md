@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Big Sing
+date: 21-02-2020
 live-date: 7:45pm, 21 February 2020
 address: The Grove Theatre, Eastbourne Library, Grove Road, Eastbourne
 ---

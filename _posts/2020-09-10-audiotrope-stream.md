@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Audiotrope Stream
+date: 10-09-2020
 live-date: 10 September 2020
 address: Blulamp Studios, Stables lane, Eastbourne, East Sussex
 ---
