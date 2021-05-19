@@ -88,18 +88,18 @@
 				}
 
 				p {
-					font-size: 1.2em;
+					font-size: 1.4em;
 					font-weight: _font(weight-bold);
-					letter-spacing: _font(letter-spacing-alt);
-					text-transform: uppercase;
+					/*letter-spacing: _font(letter-spacing-alt);*/
+					/*text-transform: uppercase;*/
 				}
 			}
 		}
 
 		&.major {
-			height: 75vh;
+			height: 100vh;
 			min-height: 30em;
-			max-height: 50em;
+			max-height: 80em;
 
 			&.alt {
 				  opacity: 0.75;

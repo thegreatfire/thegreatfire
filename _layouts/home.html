@@ -18,12 +18,27 @@
             <!-- <header class="major">
                 <h1>{{ page.landing-title }}</h1>
             </header> -->
-            <div class="content">
+            <div class="content" style="margin-top: 1em">
                 <p style="display:block;">{{ site.description }}</p>
             </div>
+            <div class="table-wrapper">
+            <table>
+                <tbody>
+                    {% for post in site.posts reversed limit:4 %}
+                    <tr>
+                        <td>
+                            <h4>{{ post.date | date_to_string }}</h4>
+                        </td>
+                        <td>
+                            <h4>{{ post.title }}</h4>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
             <div class="content">
                 <ul class="actions">
-                    <li><a href="gigs" class="button next scrolly">Live Dates</a></li>
+                    <li><a href="gigs" class="button next scrolly">All Live Dates</a></li>
                 </ul>
             </div>
         </div>
