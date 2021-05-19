@@ -28,14 +28,14 @@
                     {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
                     {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
                     {% if date >= now and post.title != 404 %}
-                        <a href="{{ post.url }}"><tr>
+                        <tr>
                             <td>
                                 <h4>{{ post.date | date_to_string }}</h4>
                             </td>
                             <td>
-                                <h4>{{ post.title }}</h4>
+                                <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
                             </td>
-                        </tr></a>
+                        </tr>
                     {% endif %}
                     {% endfor %}
                 </tbody>
