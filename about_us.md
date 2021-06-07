@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ABOUT US
-description: 'Our story'
+description: 'An energetic Sussex cover band playing an eclectic, electric playlist from five decades of rock, pop, funk and blues.''
 image: assets/images/great-fire-promo.jpg 
 seo_description: 'One of the top cover bands in Sussex playing an eclectic, electric playlist from five decades of rock, pop, funk and blues. Find out more about the band.'
 nav-menu: true
