@@ -22,24 +22,25 @@
                 <p style="display:block;">{{ site.description }}</p>
             </div>
             <div class="table-wrapper">
-            <table>
-                <tbody>
-                    {% for post in site.posts reversed limit:4 %}
-                    {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
-                    {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
-                    {% if date >= now and post.title != 404 %}
-                        <tr>
-                            <td>
-                                <h4>{{ post.date | date_to_string }}</h4>
-                            </td>
-                            <td>
-                                <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-                            </td>
-                        </tr>
-                    {% endif %}
-                    {% endfor %}
-                </tbody>
-            </table>
+                <table>
+                    <tbody>
+                        {% for post in site.posts reversed limit:4 %}
+                        {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+                        {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
+                        {% if date >= now and post.title != 404 %}
+                            <tr>
+                                <td>
+                                    <h4>{{ post.date | date_to_string }}</h4>
+                                </td>
+                                <td>
+                                    <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+                                </td>
+                            </tr>
+                        {% endif %}
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
             <div class="content">
                 <ul class="actions">
                     <li><a href="gigs" class="button next scrolly">All Live Dates</a></li>
