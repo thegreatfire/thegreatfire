@@ -24,7 +24,7 @@
             <div class="table-wrapper">
                 <table>
                     <tbody>
-                        {% for post in site.posts reversed limit:4 %}
+                        {% for post in site.posts %}
                         {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
                         {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
                         {% if date >= now and post.title != 404 %}
