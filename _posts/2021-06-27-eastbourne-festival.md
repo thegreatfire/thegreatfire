@@ -2,7 +2,7 @@
 layout: post
 title: Eastbourne Feastival
 date: 27-06-2021
-live-date: 3pm, 27 June 2021
+live-date: 12pm, 27 June 2021
 address: Hampden Park, Eastbourne
 ---
 
