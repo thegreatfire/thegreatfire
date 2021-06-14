@@ -2,8 +2,7 @@
 <!-- layout: post -->
 title: BOOK US
 description: 'Book now for 2021'
-image: assets/images/amp.JPG
-<!-- image: assets/images/pic07.jpg -->
+image: assets/images/book-us.jpg
 show_tile: true
 nav-menu: false
 ---
