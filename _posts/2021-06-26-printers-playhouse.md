@@ -8,6 +8,6 @@ address: Printer's Playhouse, 44 Grove Road, Eastbourne
 
 Support from Deano and the Danglers.
 
-Come out of lockdown in style! We're playing our full electric set at Printer's Playhouse to celebrate the easing of lockdown.
+Thankfully our upcoming gig at Printers Playhouse is still going ahead as a ticketed event. There are ONLY 36 TICKETS AVAILABLE so please book now by emailing info@printersplayhouse.co.uk or contacting us directly. 
 
 We're bringing our eclectic, electric playlist to Printers Playhouse. We look forward to playing feel-good covers from more than 5 decades of Pop, Rock, Funk and Blues.
