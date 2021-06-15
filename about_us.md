@@ -26,7 +26,7 @@ nav-menu: true
 <section id="band">
 	<section class="spotlights">
 		<section>
-			<div style="background:url('../assets/images/stacey-singer.jpg'); background-size:cover; background-position: center; width:100%; min-height: 400px;"></div>
+			<div style="background:url('../assets/images/stacey-singer.jpg'); background-size:cover; background-position: center; width:100%; min-height: 600px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
@@ -46,7 +46,7 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<div style="background:url('../assets/images/john-guitar.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
+			<div style="background:url('../assets/images/john-guitar.jpg'); background-size:cover; width:100%; min-height: 600px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
@@ -67,11 +67,14 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<div style="background:url('../assets/images/rick-bass.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
+			<div style="background:url('../assets/images/rick-bass.jpg'); background-size:cover; width:100%; min-height: 600px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
 						<h2>Rick Baldwin, Bass</h2>
+						<ul class="icons">
+							<li><a href="https://www.instagram.com/rickbaldwin62/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						</ul>
 					</header>
 					<p>Rick holds down the low end with a thick, funky bass tone and playing that's right in the pocket.</p>
 					<h4>Influences</h4>
@@ -84,11 +87,14 @@ nav-menu: true
 			</div>
 		</section>
 		<section>
-			<div style="background:url('../assets/images/alex-drums.jpg'); background-size:cover; width:100%; min-height: 400px;"></div>
+			<div style="background:url('../assets/images/alex-drums.jpg'); background-size:cover; width:100%; min-height: 600px;"></div>
 			<div class="content">
 				<div class="inner">
 					<header class="major">
 						<h2>Alex Knight, Drums</h2>
+						<ul class="icons">
+							<li><a href="https://www.instagram.com/alexknight.im/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						</ul>
 					</header>
 					<p>Providing steady grooves, Alex’s rhythms are sure to get your feet moving.</p>
 					<h4>Top Influences</h4>
