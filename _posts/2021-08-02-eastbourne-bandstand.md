@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eastbourne Bandstand
-date: 28-08-2021
+date: 02-08-2021
 live-date: 8pm, 28 August 2021
 address: The Bandstand, Eastbourne, 
 ---
