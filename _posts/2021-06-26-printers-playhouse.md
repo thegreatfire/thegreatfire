@@ -4,7 +4,6 @@ title: SOLD OUT - Printers Playhouse + Support
 date: 26-06-2021
 live-date: 8pm, 26 June 2021
 address: Printer's Playhouse, 44 Grove Road, Eastbourne
-image: 'assets/images/great-fire-band.jpg'
 ---
 
 Support from Deano and the Danglers.
