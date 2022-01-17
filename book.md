@@ -1,6 +1,6 @@
 ---
 <!-- layout: post -->
-title: BOOK US
+title: BOOK US 
 description: 'Book now for 2021'
 image: assets/images/book-us.jpg
 show_tile: true
