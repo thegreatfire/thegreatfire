@@ -8,4 +8,4 @@ live-address: The Pavillion, Royal Parade, Eastbourne BN22 7AQ
 
 Open mic at The Pavillion is where Eastbourne's finest musicians colabroate to entertain you. 
 
-
+Bring an instrument or a song and take to the stage. First come, first served. 
