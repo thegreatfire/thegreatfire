@@ -27,7 +27,7 @@
                         {% for post in site.posts reversed %}
                         {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
                         {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
-                        {% if date >= now and post.title != 404 %}
+                        {% if date > now and post.title != 404 %}
                             <tr>
                                 <td>
                                     <h4>{{ post.date | date_to_string }}</h4>

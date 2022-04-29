@@ -1,6 +1,6 @@
 # site settings
 title: The Great Fire • Electric Cover Band
-subtitle: 2021
+subtitle: 2022
 email: band@thegreatfire.co.uk
 description:  An energetic Sussex cover band playing an eclectic, electric playlist from five decades of rock, pop, funk and blues.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -13,6 +13,7 @@ zip_code:
 country: 
 phone: 
 permalink: /:title/
+future: true
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
